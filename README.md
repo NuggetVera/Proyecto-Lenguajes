@@ -2,9 +2,9 @@
 
 Integrantes:
 
-Juan Pablo Rueda Vera
+-Juan Pablo Rueda Vera
 
-Juan Miguel Causil Londoño
+-Juan Miguel Causil Londoño
 
 Descripcion:
 
