@@ -1,7 +1,8 @@
 # Proyecto-Lenguajes
 
+Integrantes:
 Juan Pablo Rueda Vera
-
+Juan Miguel Causil Londoño
 
 Descripcion:
 
