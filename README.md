@@ -15,3 +15,4 @@ c++
 https://www.onlinegdb.com/online_c++_compiler
 
 Video:
+https://drive.google.com/file/d/1-p5t_bQKJ9S3-mCzh_2pVTJky6r9uilf/view?usp=sharing
